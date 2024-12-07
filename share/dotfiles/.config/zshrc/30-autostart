@@ -11,7 +11,8 @@ cat ~/.cache/wal/sequences
 # Fastfetch
 # -----------------------------------------------------
 if [[ $(tty) == *"pts"* ]]; then
-    fastfetch --config examples/13
+    sh ~/.config/ml4w/scripts/dynamic-logo.sh
+    fastfetch
 else
     echo
     if [ -f /bin/qtile ]; then
