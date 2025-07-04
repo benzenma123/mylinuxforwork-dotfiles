@@ -1,3 +1,1 @@
-Hi Stephan Raabe, I'm benzenma123 and I've try to use your dotfiles for Fedora but it not going so well. Please fix the problem
-Sincerely
-by benzenma123
+Hi Stephan Raabe, I'm benzenma123 and I've try to use your dotfiles for Fedora but it not going so well. The Problem is hyprlock, hyprland, Hyprpaper (and other stuff for hyprland) cannot be install when I use your scripts so please fix it :)
